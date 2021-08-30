@@ -4,13 +4,17 @@
 
 ### Sommaire
 1. Résolution des équations non linéaires
-    1. Méthode de la dicotomie
-    2. Méthode de Newton-Raphson
-2. Équations différentielles
-    1. kk
+    * Méthode de la dicotomie
+    * Méthode de Newton-Raphson
+2. Résolution de systèmes d'équations linéaires
+    * Méthode de Gauss
+    * Méthode Cholesky
+3. Interpollation polynômiale
+    * Polynôme de Lagrange
+    * Polynôme de Newton
+4. Résolution des équations différentielles
+5. Intégration numérique
 
 
-
-
-### Contribuer
-Si vous souhaitez contribuer au projet
+***
+Merci à Mensah OGBONOU pour le coup de main.
